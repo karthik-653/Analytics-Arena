@@ -18,7 +18,7 @@ The model is trained on the dataset, which can be found on this [link](https://d
 
 ## Getting started
 
-1. Clone the repository using the following command: git clone https://github.com/username/repo.git
+1. Clone the repository using the following command: git clone https://github.com/karthik-653/Analytics-Arena.git
 2. Install the dependencies by running: pip install -r requirements.txt
 3. Download the dataset and extract the files.
 4. Modify the `SIR_FSRCNN.ipynb` notebook to set the path to the dataset.
